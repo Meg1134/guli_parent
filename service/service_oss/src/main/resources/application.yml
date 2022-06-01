@@ -14,8 +14,8 @@ spring:
 
 aliyun:
   oss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    keyid: LTAI5tFDfatWy7nkLPK8FNEq
-    keysecret: 08OSZ9R70AP9roMfztBLUJq9WsfBjY
+    endpoint:
+    keyid:
+    keysecret:
     #bucket可以在控制台创建，也可以使用java代码创建，注意先测试bucket是否已被占用
-    bucketname: ma-file
+    bucketname:
