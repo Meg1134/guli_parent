@@ -1,6 +1,6 @@
 # guli_parent
 
-# 小马学院
+# 小马学院(改编自尚硅谷的谷粒学院)
 
 ![](https://img.shields.io/badge/building-passing-green.svg)![GitHub](https://img.shields.io/badge/license-MIT-yellow.svg)![jdk](https://img.shields.io/static/v1?label=oraclejdk&message=8&color=blue)
 
@@ -19,8 +19,8 @@
 
 - 接口文档
 
-  - 谷粒学院后台接口:  https://gitee.com/oycodesite/GuliEdu.git
-  - 谷粒学院后台UI:  https://github.com/OYCodeSite/GuliEdu_AdminUI.git
+  - 谷粒学院后台接口:https://github.com/Meg1134/guli_parent
+  - 谷粒学院后台UI:  https://github.com/Meg1134/xiaoma_admin
   - 谷粒学院前台UI： https://github.com/OYCodeSite/GuliEdu_FrontUI.git
 
 ## 项目介绍
