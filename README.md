@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/building-passing-green.svg)![GitHub](https://img.shields.io/badge/license-MIT-yellow.svg)![jdk](https://img.shields.io/static/v1?label=oraclejdk&message=8&color=blue)
 
-谷粒学院项目致力于打造一个B2C模式的职业技能在线教育系统平台，采用现阶段流行技术来实现，采用前后端分离编写。
+小马学院项目致力于打造一个B2C模式的职业技能在线教育系统平台，采用现阶段流行技术来实现，采用前后端分离编写。
 
 [GitHub 地址](https://github.com/OYCodeSite/GuliEdu.git)
 
@@ -19,13 +19,13 @@
 
 - 接口文档
 
-  - 谷粒学院后台接口:https://github.com/Meg1134/guli_parent
-  - 谷粒学院后台UI:  https://github.com/Meg1134/xiaoma_admin
-  - 谷粒学院前台UI： https://github.com/OYCodeSite/GuliEdu_FrontUI.git
+  - 小马学院后台接口:https://github.com/Meg1134/guli_parent
+  - 小马学院后台UI:  https://github.com/Meg1134/xiaoma_admin
+  - 小马学院前台UI： https://github.com/OYCodeSite/GuliEdu_FrontUI.git
 
 ## 项目介绍
 
-谷粒学院项目是一套在线教育项目，包括前台系统以及后台管理系统，基于 SpringCloud、SpringCloud Alibaba、MyBatis Plus实现。前台系统包括：用户登录、注册、名师列表、名师详情、课程列表、课程详细、视频在线播放等模块。后台管理系统包括：首页、权限管理、讲师分类、课程分类、课程管理、统计分析等模块。
+小马学院项目是一套在线教育项目，包括前台系统以及后台管理系统，基于 SpringCloud、SpringCloud Alibaba、MyBatis Plus实现。前台系统包括：用户登录、注册、名师列表、名师详情、课程列表、课程详细、视频在线播放等模块。后台管理系统包括：首页、权限管理、讲师分类、课程分类、课程管理、统计分析等模块。
 
 ## 系统模块
 
